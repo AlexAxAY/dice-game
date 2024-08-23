@@ -1,0 +1,19 @@
+.Die{
+    width: 3em;
+    height: 2.25em;
+    text-align: center;
+    color: beige;
+    font-size: bold;
+    display: inline-block;
+    margin-right: .5em;
+    font-size: 2em;
+    background-color: blueviolet;
+    align-content: center;
+    justify-content: center;
+    border: 2px solid black;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    border-radius: 10px;
+    border-style: solid;
+    
+
+}
